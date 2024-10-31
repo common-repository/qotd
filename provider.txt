@@ -1,0 +1,12 @@
+a:6:{s:4:"name";s:7:"quotedb";s:4:"site";s:11:"quotedb.com";s:4:"lang";s:3:"eng";s:10:"randomness";s:9:"4,102/day";s:9:"showTitle";s:1:"1";s:3:"rss";s:67:"http://www.quotedb.com/quote/quote.php?action=random_quote_rss&=&=&";}
+a:6:{s:4:"name";s:7:"riddles";s:4:"site";s:11:"riddles.com";s:4:"lang";s:3:"eng";s:10:"randomness";s:5:"1/day";s:9:"showTitle";s:1:"1";s:3:"rss";s:56:"http://riddles.com/option,com_rss/feed,RSS1.0/no_html,1/";}
+a:6:{s:4:"name";s:14:"quotationspage";s:4:"site";s:18:"quotationspage.com";s:9:"showTitle";s:1:"1";s:4:"lang";s:3:"eng";s:10:"randomness";s:6:"12/day";s:3:"rss";s:47:"http://feeds.feedburner.com/quotationspage/qotd";}
+a:6:{s:4:"name";s:14:"pensieriparole";s:4:"site";s:17:"pensieriparole.it";s:9:"showTitle";s:1:"0";s:4:"lang";s:3:"ita";s:10:"randomness";s:5:"5/day";s:3:"rss";s:48:"http://www.pensieriparole.it/rss/frasigiorno.xml";}
+a:6:{s:4:"name";s:9:"citazioni";s:4:"site";s:12:"citazioni.tk";s:9:"showTitle";s:1:"1";s:4:"lang";s:3:"ita";s:10:"randomness";s:10:"1/halfhour";s:3:"rss";s:50:"http://rss.citazioni.tk/citazioni/acaso?format=xml";}
+a:6:{s:4:"name";s:5:"evene";s:4:"site";s:8:"evene.fr";s:4:"lang";s:3:"fra";s:9:"showTitle";s:1:"0";s:10:"randomness";s:6:"10/day";s:3:"rss";s:41:"http://www.evene.fr/rss/citation_jour.xml";}
+a:6:{s:4:"name";s:13:"dicocitations";s:4:"site";s:17:"dicocitations.com";s:4:"lang";s:3:"fra";s:9:"showTitle";s:1:"1";s:10:"randomness";s:6:"50/day";s:3:"rss";s:41:"http://www.dicocitations.com/xml-rss2.php";}
+a:6:{s:4:"name";s:13:"zitate-online";s:4:"site";s:16:"zitate-online.de";s:4:"lang";s:3:"ger";s:9:"showTitle";s:1:"0";s:10:"randomness";s:6:"10/day";s:3:"rss";s:45:"http://www.zitate-online.de/neuestezitate.xml";}
+a:6:{s:4:"name";s:10:"aphorismen";s:4:"site";s:13:"aphorismen.de";s:4:"lang";s:3:"ger";s:9:"showTitle";s:1:"1";s:10:"randomness";s:5:"1/day";s:3:"rss";s:43:"http://www.aphorismen.de/tagesspruchRSS.xml";}
+a:6:{s:4:"name";s:6:"zitate";s:4:"site";s:10:"zitate.net";s:4:"lang";s:3:"ger";s:9:"showTitle";s:1:"1";s:10:"randomness";s:7:"100/day";s:3:"rss";s:42:"http://zitate.net/rss/591010110/zitate.xml";}
+a:6:{s:4:"name";s:5:"witze";s:4:"site";s:9:"witze.net";s:4:"lang";s:3:"ger";s:9:"showTitle";s:1:"0";s:10:"randomness";s:7:"100/day";s:3:"rss";s:40:"http://witze.net/rss/591010111/witze.xml";}
+a:6:{s:4:"name";s:9:"proverbia";s:4:"site";s:13:"proverbia.net";s:4:"lang";s:3:"spa";s:9:"showTitle";s:1:"1";s:10:"randomness";s:5:"1/day";s:3:"rss";s:33:"http://www.proverbia.net/qotd.asp";}
